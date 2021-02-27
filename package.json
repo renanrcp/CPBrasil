@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron .",
     "build": "electron-builder build --win --ia32 --publish never",
-    "build-mac": "electron-builder build --mac --publish never",
+    "build-mac": "electron-builder build --mac --ia32 --publish never",
 	"build-linux": "electron-builder build --linux --ia32 --publish never",
     "appveyor-build": "electron-builder build --win --publish onTagOrDraft"
   },
