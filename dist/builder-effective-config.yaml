@@ -1,0 +1,9 @@
+directories:
+  output: dist
+  buildResources: build
+appId: pw.cpbrasil.client
+productName: CPBrasil
+asar: false
+win:
+  publish: github
+electronVersion: 6.1.7
