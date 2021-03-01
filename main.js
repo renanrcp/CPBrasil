@@ -25,9 +25,9 @@ app.commandLine.appendSwitch('ppapi-flash-path', path.join(__dirname, pluginName
 autoUpdater.checkForUpdatesAndNotify();
 let mainWindow;
 
-function clearCache() {
+/*function clearCache() {
   mainWindow.webContents.session.clearCache();
-}
+*/
 
 function createWindow () {
   mainWindow = new BrowserWindow({
@@ -50,8 +50,8 @@ function createWindow () {
   const clientId = '815061695831212093'; DiscordRPC.register(clientId); const rpc = new DiscordRPC.Client({ transport: 'ipc' }); const startTimestamp = new Date();
   rpc.on('ready', () => {
     rpc.setActivity({
-      details: `cpbrasil.pw`, 
-      state: `Made by CPPS News`, 
+      details: `Pinguinando`, 
+      state: `cpbrasil.pw`, 
       startTimestamp, 
       largeImageKey: `main-logo`//, 
       //largeImageText: "LARGE IMAGE TEXT", 
@@ -83,4 +83,4 @@ app.on('activate', function () {
 });
 
 
-setInterval(clearCache, 1000*60*5);
+//setInterval(clearCache, 1000*60*5);
