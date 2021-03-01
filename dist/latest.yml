@@ -1,8 +1,8 @@
 version: 1.0.0
 files:
   - url: CPBrasil-Setup-1.0.0.exe
-    sha512: IMx42WCD5npXf+W9mQ7yXEek68OFxyNZo5H5Ms1hddysuoWHIJIMlE/9Ft8EyBWvQmg6eUI03ffny3dOXeadvg==
-    size: 73990968
+    sha512: IWg6LI4j2YHopIrHnq1eTGLggl/pu8TgqR453jzN9GVsImXV91PafKJOH2bJ+Eg9oFMqqU/3Yb3tV3xh5v5biw==
+    size: 85342278
 path: CPBrasil-Setup-1.0.0.exe
-sha512: IMx42WCD5npXf+W9mQ7yXEek68OFxyNZo5H5Ms1hddysuoWHIJIMlE/9Ft8EyBWvQmg6eUI03ffny3dOXeadvg==
-releaseDate: '2021-02-27T17:37:30.590Z'
+sha512: IWg6LI4j2YHopIrHnq1eTGLggl/pu8TgqR453jzN9GVsImXV91PafKJOH2bJ+Eg9oFMqqU/3Yb3tV3xh5v5biw==
+releaseDate: '2021-03-01T16:30:25.567Z'

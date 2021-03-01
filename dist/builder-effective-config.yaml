@@ -6,4 +6,4 @@ productName: CPBrasil
 asar: false
 win:
   publish: github
-electronVersion: 6.1.7
+electronVersion: 11.3.0

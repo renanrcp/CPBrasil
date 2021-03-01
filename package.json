@@ -7,7 +7,7 @@
     "start": "electron .",
     "build": "electron-builder build --win --ia32 --publish never",
     "build-mac": "electron-builder build --mac --ia32 --publish never",
-	"build-linux": "electron-builder build --linux --ia32 --publish never",
+    "build-linux": "electron-builder build --linux --ia32 --publish never",
     "appveyor-build": "electron-builder build --win --publish onTagOrDraft"
   },
   "bugs": {
@@ -18,7 +18,7 @@
   "author": "Julian45123",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^6.1.2",
+    "electron": "^11.3.0",
     "electron-builder": "^22.2.0",
     "electron-is-dev": "^1.1.0"
   },

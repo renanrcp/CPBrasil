@@ -1,0 +1,12 @@
+version: 1.0.0
+files:
+  - url: CPBrasil-1.0.0-mac.zip
+    sha512: 2RiiSnx5ipC/ZWfm1byGdcu4YFyWMBLCLNdtl20yg6pYz3gYnvR1kQQDYVz11IikcH9jbv4g7s+VWbMkScMX1g==
+    size: 115746967
+    blockMapSize: 120850
+  - url: CPBrasil-1.0.0.dmg
+    sha512: 23sORbiCo3oD3SIBQ0JMQQ+bL55q6r133+3s+6PRFMIkjAGBAeSAoBQ1A4GAYMvY1NHsT3i5lzPl0+LUyXQGXw==
+    size: 119135743
+path: CPBrasil-1.0.0-mac.zip
+sha512: 2RiiSnx5ipC/ZWfm1byGdcu4YFyWMBLCLNdtl20yg6pYz3gYnvR1kQQDYVz11IikcH9jbv4g7s+VWbMkScMX1g==
+releaseDate: '2021-03-01T16:10:46.719Z'
