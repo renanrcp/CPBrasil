@@ -43,7 +43,7 @@ function createWindow () {
   mainWindow.maximize();
 
   mainWindow.setMenu(null);
-  clearCache();
+  //clearCache();
   mainWindow.loadURL('https://cpbrasil.pw/play/');
 
   // RICH PRESENCE START
