@@ -37,7 +37,8 @@
     "linux": {
       "publish": "github",
       "target": "deb",
-      "maintainer": "Julian45123"
+      "maintainer": "Julian45123",
+      "icon": "./icon.icns"
     }
   }
 }

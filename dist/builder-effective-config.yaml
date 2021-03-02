@@ -10,4 +10,5 @@ linux:
   publish: github
   target: deb
   maintainer: Julian45123
+  icon: ./icon.icns
 electronVersion: 11.3.0
