@@ -8,5 +8,6 @@ win:
   publish: github
 linux:
   publish: github
-  target: AppImage
+  target: deb
+  maintainer: Julian45123
 electronVersion: 11.3.0
